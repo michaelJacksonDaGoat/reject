@@ -1,6 +1,6 @@
 # app-dev
 My first repository
 
-# My favorite movie is about legos
+# The Lego Movie
 
-**The Lego movie**
+**This movie about Legos and batman**
